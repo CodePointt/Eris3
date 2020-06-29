@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eris1", "eris1.csproj", "{C5BEAFE0-89C4-4AEF-97BD-38F8F07706A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BEAFE0-89C4-4AEF-97BD-38F8F07706A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BEAFE0-89C4-4AEF-97BD-38F8F07706A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BEAFE0-89C4-4AEF-97BD-38F8F07706A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BEAFE0-89C4-4AEF-97BD-38F8F07706A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C86E7CD0-C292-4A0A-98A8-F946FA1B7B14}
+	EndGlobalSection
+EndGlobal
